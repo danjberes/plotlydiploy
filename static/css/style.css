@@ -1,10 +1,10 @@
 .jumbotron {
-    background-image:  url(static/banner.png);
+    background-image:  url("../images/banner.png");
     color: rgb(189, 189, 189);
 }
 
 body {
-    background-image: url(static/background.jpg);
+    background-image: url("../images/background.jpg");
     font-family: fantasy;
     text-align: center;
 }
